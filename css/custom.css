@@ -1,0 +1,94 @@
+/*!
+ * Start Bootstrap - 1 Col Portfolio HTML Template (http://startbootstrap.com)
+ * Code licensed under the Apache License v2.0.
+ * For details, see http://www.apache.org/licenses/LICENSE-2.0.
+ */
+
+body {
+    font-family: 'avenirnext-regular';
+}
+
+h1, h2 {
+	font-family: 'avenirnext-bold';
+  z-index: 10;
+  margin-left: 30px;
+}
+
+h1 {
+  color: #FBED21;
+}
+
+h2 {
+  color: white;
+}
+
+h3, h4 {
+  font-family: 'avenirnext-demibold';
+}
+
+p {
+	font-family: 'avenirnext-regular';
+}
+
+img.small-iphone-pghprj {
+  max-width: 700px;
+  bottom: 0;
+  float: right;
+  position: absolute;
+  margin-left: 30px;
+}
+
+.leaflet-top.leaflet-left {
+  display: none;
+}
+
+.map { 
+	position:absolute; 
+	width:100%; 
+	height: 100%;
+  margin-left: -8px !important;
+  margin-top: -140px !important;
+  z-index: -1;
+}
+
+.leaflet-control-attribution.leaflet-control { 
+	display: none;
+}
+
+.mapbox-logo.leaflet-control.mapbox-logo-true { 
+	display: none;
+}
+
+.leaflet-container{
+  overflow: inherit;
+  margin-left: -2px;
+}
+
+span#credit {
+    background-color: #141414;
+    opacity: 0.85;
+    padding-left: 7px;
+    padding-right: 7px;
+    padding-top: 2px;
+    padding-bottom: 3px;
+    margin-right: -10px;
+}
+
+.download {
+    width: 325px;
+    margin-left: 30px;
+}
+
+img.ios {
+    width: 49%;
+    float: left;
+    opacity: 0.95;
+}
+
+img.android{
+  width: 49%;
+  float:right;
+  opacity: 0.95;
+}
+
+
