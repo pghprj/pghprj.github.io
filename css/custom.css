@@ -75,6 +75,26 @@ span#credit {
     margin-right: -10px;
 }
 
+span#creditlogo {
+    background-color: #141414;
+    opacity: 0.90;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 30px;
+    padding-bottom: 3px;
+    margin-right: 10px;
+}
+
+span#creditlogo2 {
+    background-color: #141414;
+    opacity: 0.90;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 30px;
+    padding-bottom: 3px;
+    margin-right: 10px;
+}
+
 .download {
     width: 325px;
     margin-left: 30px;
@@ -90,4 +110,18 @@ img.android{
   float:right;
 }
 
+img.ou {
+    max-width: 60px;
+}
 
+img.ou2 {
+    max-width: 60px;
+    padding-right: 10px;
+}
+
+.cmuoulogo {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    padding-bottom: 20px;
+}
