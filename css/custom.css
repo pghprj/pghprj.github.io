@@ -83,13 +83,11 @@ span#credit {
 img.ios {
     width: 49%;
     float: left;
-    opacity: 0.95;
 }
 
 img.android{
   width: 49%;
   float:right;
-  opacity: 0.95;
 }
 
 
